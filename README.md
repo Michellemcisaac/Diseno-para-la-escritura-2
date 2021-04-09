@@ -44,10 +44,18 @@
                     <p class="lead mb-5">Desde ya te quiero dar las gracias por participar de esta actividad, este sitio será tu amigo durante todo el día, pero es importante sea el día en el que tengas clases de lenguaje.
 
                         Este diario cuenta con 2 partes, una la debes realizar  después de tu clase de lenguaje y la otra  parte cuando tengas tiempo..</p>
-                    <div class="social-icons">
-                        <a class="social-icon" href="#"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="social-icon" href="#"><i class="fab fa-github"></i></a>
-                        <a class="social-icon" href="#"><i class="fab fa-twitter"></i></a>
-                        <a class="social-icon" href="#"><i class="fab fa-facebook-f"></i></a>
-                    </div>
+                  
   
+[<img align="center" src="https://user-images.githubusercontent.com/81307858/113779115-367c3700-96fb-11eb-9224-0586b9a4c16a.jpg" />][Website]
+
+[Website]: https://scs4hwkacnb.typeform.com/to/SDqPkxpG
+
+
+
+
+[<img align="center"  src="https://user-images.githubusercontent.com/81307858/113779341-9246c000-96fb-11eb-9901-14e934a0b64e.jpg" />][Descargar]
+
+[Descargar]: https://github.com/Michellemcisaac/Diseno-para-la-escritura/files/6255435/Sonda.interactiva.3.1.pdf
+
+
+
